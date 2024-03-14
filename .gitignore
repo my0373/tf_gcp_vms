@@ -1,3 +1,4 @@
+gcp_vm_test.tfvars
 .terraform.tfstate.lock.info
 terraform.tfstate
 terraform.tfstate.backup
